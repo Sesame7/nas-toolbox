@@ -19,7 +19,7 @@ This repository collects practical guides, scripts, and configurations to help e
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-org>/nas-toolbox.git
+   git clone https://github.com/Sesame7/nas-toolbox.git
    cd nas-toolbox
    ```
 
